@@ -1,3 +1,3 @@
 module ApplicationHelper
-    # Dan was here
+    # Dan was here . . . again
 end
