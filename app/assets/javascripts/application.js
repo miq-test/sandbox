@@ -13,4 +13,4 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
-//* Dan was here
+//* Dan was here, oops, shouldn't have been here
