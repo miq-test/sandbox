@@ -2,7 +2,7 @@ require 'test_helper'
 
 class SomeNewModelTest < ActiveSupport::TestCase
   test "make sure it does what it says" do
-    assert ture
+    assert true
   end
 
   # test "the truth" do
