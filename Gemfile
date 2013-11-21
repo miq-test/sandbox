@@ -40,3 +40,4 @@ gem 'jquery-rails'
 
 # Something else
 # Some third thing!
+# And more!
