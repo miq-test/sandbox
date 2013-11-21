@@ -38,7 +38,3 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 
-# Something else
-# Some third thing!
-# And more!
-# #5!
