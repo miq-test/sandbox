@@ -39,3 +39,5 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 # Testing commit monitor
+gem 'haml'
+
