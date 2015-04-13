@@ -7,6 +7,9 @@
     = stylesheet_link_tag    "application", :media => "all"
     = javascript_include_tag "application"
     = csrf_meta_tags
-  %body
-    Made a typo - Test from Kay
+  %body 
+    Add an end, which is obsolete in HAML
+    - if something
+    - else
+    - end
     = yield
