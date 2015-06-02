@@ -1,8 +1,8 @@
 require 'test_helper'
 
 class SomeNewModelTest < ActiveSupport::TestCase
-  test "make sure it does what it says" do
-    assert true
+  test "stalled build" do
+    sleep 60 * 15
   end
 
   test "the truth" do
