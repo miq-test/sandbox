@@ -41,3 +41,5 @@ gem 'jquery-rails'
 # Testing commit monitor
 gem 'haml'
 
+gem 'american_date'
+gem 'elif'
