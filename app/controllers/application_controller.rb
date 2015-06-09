@@ -4,4 +4,8 @@ class ApplicationController < ActionController::Base
   def self.stuff
     really_long_line = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
   end
+
+  def self.stuff2
+    really_long_line = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB"
+  end
 end
