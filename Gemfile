@@ -42,3 +42,4 @@ gem 'jquery-rails'
 gem 'haml'
 
 gem 'american_date'
+gem 'elif'
