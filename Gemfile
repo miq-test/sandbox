@@ -42,6 +42,5 @@ gem 'jquery-rails'
 gem 'haml'
 
 group :test do
-  gem 'emoji-rspec'
   gem 'rspec-rainbow'
 end
