@@ -42,3 +42,4 @@ gem 'jquery-rails'
 gem 'haml'
 
 ## Comment here!
+## And another one!
