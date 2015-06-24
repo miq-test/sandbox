@@ -41,3 +41,6 @@ gem 'jquery-rails'
 # Testing commit monitor
 gem 'haml'
 
+group :test do
+  gem 'emoji-rspec'
+end
