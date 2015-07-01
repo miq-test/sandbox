@@ -41,3 +41,5 @@ gem 'jquery-rails'
 # Testing commit monitor
 gem 'haml'
 
+
+# Testing bugzilla commenter
