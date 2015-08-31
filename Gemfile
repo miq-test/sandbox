@@ -1,4 +1,3 @@
-gem 'sqlite3'
 
 
 # Gems used only for assets and not required
