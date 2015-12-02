@@ -1,13 +1,10 @@
 # COMMENT!
 source 'https://rubygems.org'
 
-gem 'rails'
+gem 'rails', '4.2'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-
-gem 'sqlite3'
-
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -41,3 +38,5 @@ gem 'jquery-rails'
 # Testing commit monitor
 gem 'haml'
 #blah
+
+gem 'awesome_spawn'
