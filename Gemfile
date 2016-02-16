@@ -1,7 +1,7 @@
 # COMMENT!
 source 'https://rubygems.org'
 
-gem 'rails'
+# huehuehue no rails
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
