@@ -1,0 +1,11 @@
+---
+:a:
+- b
+- c
+:d:
+  :e:
+    # inconsistent indentation:
+    - f
+    - g
+# duplicate key:
+:a: h
