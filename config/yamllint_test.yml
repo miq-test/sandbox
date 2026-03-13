@@ -1,0 +1,6 @@
+---
+yamllint_issue:
+  details:
+  # This is a wrong indentation error
+  - 1
+  - 2

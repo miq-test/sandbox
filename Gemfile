@@ -40,4 +40,7 @@ gem 'jquery-rails'
 
 # Testing commit monitor
 gem 'haml'
-#blah
+
+group :development do
+  gem "manageiq-style"
+end
